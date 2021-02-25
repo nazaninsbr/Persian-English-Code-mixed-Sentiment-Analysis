@@ -15,7 +15,7 @@ How to collect data from twitter: https://chatbotslife.com/crawl-twitter-data-us
 
 How to get tweets with specific IDs: https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
 
-
+<!--
 ## Research paper
 
 You can find the full text of our research paper here: 
@@ -30,3 +30,4 @@ If you find this dataset useful in your research, please consider citing:
   year={2021}
 }
 ```
+-->
