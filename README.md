@@ -2,4 +2,15 @@
 
 The dataset includes 3,640 Persian-English code-mixed tweets labeled with sentiment values (positive, negative, neutral). 
 
-In compliance with Twitter's terms of service, we have only added Tweet IDs, searched keyword, and our labels. You can retrieve the texts by using Twitter's Developer API. 
+In compliance with Twitter's terms of service, we have only added the following fields:
+
+* Tweet IDs
+* searched keyword
+* labels (individual labels by the three annotators and the overall label calculated using max voting)
+
+You can retrieve the texts by using Twitter's Developer API. 
+
+
+How to collect data from twitter: https://chatbotslife.com/crawl-twitter-data-using-30-lines-of-python-code-e3fece99450e
+
+How to get tweets with specific IDs: https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
