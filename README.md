@@ -15,7 +15,6 @@ How to collect data from twitter: https://chatbotslife.com/crawl-twitter-data-us
 
 How to get tweets with specific IDs: https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
 
-<!--
 ## Research paper
 
 You can find the full text of our research paper here: 
@@ -23,11 +22,12 @@ You can find the full text of our research paper here:
 If you find this dataset useful in your research, please consider citing:
 
 ```
-@article{sabri2021sentiment,
-  title={Sentiment Analysis of Persian-English Code-mixed Texts},
-  author={Sabri, Nazanin and Edalat, Ali and Bahrak, Behnam},
-  journal={arXiv preprint arXiv:2012.03932},
-  year={2021}
+@misc{sabri2021sentiment,
+    title={Sentiment Analysis of Persian-English Code-mixed Texts},
+    author={Nazanin Sabri and Ali Edalat and Behnam Bahrak},
+    year={2021},
+    eprint={2102.12700},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
--->
