@@ -17,7 +17,7 @@ How to get tweets with specific IDs: https://stackoverflow.com/questions/2838458
 
 ## Research paper
 
-You can find the full text of our research paper here: 
+You can find the full text of our research paper here: https://arxiv.org/abs/2102.12700
 
 If you find this dataset useful in your research, please consider citing:
 
