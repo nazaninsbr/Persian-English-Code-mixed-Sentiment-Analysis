@@ -22,12 +22,10 @@ You can find the full text of our research paper here: https://arxiv.org/abs/210
 If you find this dataset useful in your research, please consider citing:
 
 ```
-@misc{sabri2021sentiment,
-    title={Sentiment Analysis of Persian-English Code-mixed Texts},
-    author={Nazanin Sabri and Ali Edalat and Behnam Bahrak},
-    year={2021},
-    eprint={2102.12700},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@article{sabri2021sentiment,
+  title={Sentiment Analysis of Persian-English Code-mixed Texts},
+  author={Sabri, Nazanin and Edalat, Ali and Bahrak, Behnam},
+  journal={arXiv preprint arXiv:2102.12700},
+  year={2021}
 }
 ```
